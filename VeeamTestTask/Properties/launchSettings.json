@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VeeamTestTask": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\lord_of_the_ring.mp4 1000000"
+    }
+  }
+}
